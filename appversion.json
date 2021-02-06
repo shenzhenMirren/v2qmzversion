@@ -1,0 +1,10 @@
+{
+	"code": 200,
+	"msg": "成功",
+	"data": {
+		"type": 0,
+		"intro": "更新服务地址",		
+		"iosurl": "http://testapi.bible.ac.cn",
+		"andurl": "http://testapi.bible.ac.cn"
+	}
+}
