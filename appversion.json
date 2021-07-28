@@ -11,13 +11,13 @@
 				"type": 0,
 				"intro": "更新服务地址",
 				"iosurl": "https://api.cfyzs.com",
-				"andurl": "https://api.cfyzs.com",
+				"andurl": "https://api.cfyzs.com"
 			},
 			"outside": {
 				"type": 0,
 				"intro": "更新服务地址",
 				"iosurl": "https://zwapi.bfcm.cn",
-				"andurl": "https://zwapi.bfcm.cn",
+				"andurl": "https://zwapi.bfcm.cn"
 			}
 		}
 	}
